@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6ab1191a.css",
-    "main.js": "/static/js/main.ab3d9b59.js",
+    "main.js": "/static/js/main.d692c384.js",
     "static/media/game_reversi_board.png": "/static/media/game_reversi_board.679329172abeda68dab5.png",
     "static/media/game_reversi_black.png": "/static/media/game_reversi_black.9fd758168a40def15b09.png",
+    "static/media/game_reversi_white.png": "/static/media/game_reversi_white",
+    "static/media/game_reversi_blank.png": "/static/media/game_reversi_blank",
     "index.html": "/index.html",
     "main.6ab1191a.css.map": "/static/css/main.6ab1191a.css.map",
-    "main.ab3d9b59.js.map": "/static/js/main.ab3d9b59.js.map"
+    "main.d692c384.js.map": "/static/js/main.d692c384.js.map"
   },
   "entrypoints": [
     "static/css/main.6ab1191a.css",
-    "static/js/main.ab3d9b59.js"
+    "static/js/main.d692c384.js"
   ]
 }
