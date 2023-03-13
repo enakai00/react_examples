@@ -4,4 +4,4 @@
 
 - [Mine Sweeper](https://enakai00.github.io/react_examples/contents/minesweeper/) ([Source](https://github.com/enakai00/react_mine_sweeper))
 
-- [Spaceship Buttle](https://enakai00.github.io/react_examples/contents/spaceship_battle/) ([Source](https://github.com/enakai00/react_spaceship_battle))
+- [Spaceship Battle](https://enakai00.github.io/react_examples/contents/spaceship_battle/) ([Source](https://github.com/enakai00/react_spaceship_battle))
