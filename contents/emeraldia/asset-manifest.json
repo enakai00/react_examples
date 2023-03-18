@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react_examples/contents/emeraldia/static/js/main.d3a0720c.js",
+    "static/media/display.png": "/react_examples/contents/emeraldia/static/media/display.62fcace39aaa03994ece.png",
+    "index.html": "/react_examples/contents/emeraldia/index.html",
+    "main.d3a0720c.js.map": "/react_examples/contents/emeraldia/static/js/main.d3a0720c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3a0720c.js"
+  ]
+}

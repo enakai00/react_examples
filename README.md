@@ -7,3 +7,5 @@
 - [Spaceship Battle](https://enakai00.github.io/react_examples/contents/spaceship_battle/) ([Source](https://github.com/enakai00/react_spaceship_battle))
 
 - [Walk-Walk Game](https://enakai00.github.io/react_examples/contents/walk_walk_game/) ([Source](https://github.com/enakai00/react_walk_walk_game))
+
+- [Emeraldia-like Game](https://enakai00.github.io/react_examples/contents/emeraldia/) ([Source](https://github.com/enakai00/react_emeraldia))
