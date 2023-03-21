@@ -9,3 +9,5 @@
 - [Walk-Walk Game](https://enakai00.github.io/react_examples/contents/walk_walk_game/) ([Source](https://github.com/enakai00/react_walk_walk_game))
 
 - [Emeraldia-like Game](https://enakai00.github.io/react_examples/contents/emeraldia/) ([Source](https://github.com/enakai00/react_emeraldia))
+
+- [Chain Reaction](https://enakai00.github.io/react_examples/contents/chain_reaction/) ([Source](https://github.com/enakai00/react_chain_reaction))
