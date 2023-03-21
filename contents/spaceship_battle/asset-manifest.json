@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react_examples/contents/spaceship_battle/static/js/main.438979de.js",
+    "main.js": "/react_examples/contents/spaceship_battle/static/js/main.f2063d39.js",
     "static/media/display.png": "/react_examples/contents/spaceship_battle/static/media/display.62fcace39aaa03994ece.png",
     "index.html": "/react_examples/contents/spaceship_battle/index.html",
-    "main.438979de.js.map": "/react_examples/contents/spaceship_battle/static/js/main.438979de.js.map"
+    "main.f2063d39.js.map": "/react_examples/contents/spaceship_battle/static/js/main.f2063d39.js.map"
   },
   "entrypoints": [
-    "static/js/main.438979de.js"
+    "static/js/main.f2063d39.js"
   ]
 }
