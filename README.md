@@ -1,6 +1,6 @@
 # React Example Applications
 
-## React tutorial example
+## React tutorial examples
 
 The following is an accompany application of the React tutorial in Japanese: [バックエンドエンジニアのための React 入門](https://enakai00.hatenablog.com/entry/2023/03/09/133119)
 
@@ -12,7 +12,7 @@ The following is an example code of using [react-responsive-spritesheet](https:/
 
 ## Retro text games
 
-The following applications are developed based on the [React Text Game Engine](https://github.com/enakai00/react_textgame). 
+The following applications are based on the [React Text Game Engine](https://github.com/enakai00/react_textgame). 
 
 The details are described in the note in Japanese: [パソコン風のテキストゲームを簡単に作れる React のゲームエンジン](https://enakai00.hatenablog.com/entry/2023/03/14/131745)
 
