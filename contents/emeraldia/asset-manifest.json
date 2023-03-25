@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react_examples/contents/emeraldia/static/js/main.936361da.js",
+    "main.js": "/react_examples/contents/emeraldia/static/js/main.597bebbb.js",
     "static/media/display.png": "/react_examples/contents/emeraldia/static/media/display.62fcace39aaa03994ece.png",
     "index.html": "/react_examples/contents/emeraldia/index.html",
-    "main.936361da.js.map": "/react_examples/contents/emeraldia/static/js/main.936361da.js.map"
+    "main.597bebbb.js.map": "/react_examples/contents/emeraldia/static/js/main.597bebbb.js.map"
   },
   "entrypoints": [
-    "static/js/main.936361da.js"
+    "static/js/main.597bebbb.js"
   ]
 }
