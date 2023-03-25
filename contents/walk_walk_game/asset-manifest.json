@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react_examples/contents/walk_walk_game/static/js/main.56e1d89b.js",
+    "main.js": "/react_examples/contents/walk_walk_game/static/js/main.c63d67dc.js",
     "static/media/display.png": "/react_examples/contents/walk_walk_game/static/media/display.62fcace39aaa03994ece.png",
     "index.html": "/react_examples/contents/walk_walk_game/index.html",
-    "main.56e1d89b.js.map": "/react_examples/contents/walk_walk_game/static/js/main.56e1d89b.js.map"
+    "main.c63d67dc.js.map": "/react_examples/contents/walk_walk_game/static/js/main.c63d67dc.js.map"
   },
   "entrypoints": [
-    "static/js/main.56e1d89b.js"
+    "static/js/main.c63d67dc.js"
   ]
 }
