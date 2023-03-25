@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react_examples/contents/chain_reaction/static/js/main.4eb327db.js",
+    "main.js": "/react_examples/contents/chain_reaction/static/js/main.69725aef.js",
     "static/media/display.png": "/react_examples/contents/chain_reaction/static/media/display.62fcace39aaa03994ece.png",
     "index.html": "/react_examples/contents/chain_reaction/index.html",
-    "main.4eb327db.js.map": "/react_examples/contents/chain_reaction/static/js/main.4eb327db.js.map"
+    "main.69725aef.js.map": "/react_examples/contents/chain_reaction/static/js/main.69725aef.js.map"
   },
   "entrypoints": [
-    "static/js/main.4eb327db.js"
+    "static/js/main.69725aef.js"
   ]
 }
